@@ -1,9 +1,3 @@
-<style>
-    img{
-        width:33%;
-    }
-</style>
-
 # 02 Responsive Portfolio
 
 ## Description
