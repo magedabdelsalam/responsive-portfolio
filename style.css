@@ -2,14 +2,15 @@ h1,.navbar-brand{
     font-family:serif;
 }
 
-p{
-    line-height:2em;
-}
-
 img{
     width:350px;
+}
+
+#profile{
+    width:250px;
 }
 
 footer{
     border-top:5px solid #17a2b8;
 }
+
