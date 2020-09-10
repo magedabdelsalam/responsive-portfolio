@@ -1,1 +1,3 @@
-# responsive-portfolio
+# 02 Responsive Portfolio
+
+## Description
